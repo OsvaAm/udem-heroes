@@ -12,4 +12,4 @@ Estos son los cambios locales del proyecto.
 ### Actualizado desde GitHub 
 Este es un mensaje editado desde GitHub !!!
 Añadiendo mas comentarios de prueba.
-Añadiendo otro comentario desde GitHub para ocasionar un conflicto.
+
